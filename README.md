@@ -1,2 +1,2 @@
 # SpringMvc
-springmvc + mybatis + datatables表格
+springmvc + mybatis + datatables表格；基础框架搭建
